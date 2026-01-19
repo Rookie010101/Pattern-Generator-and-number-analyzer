@@ -22,7 +22,6 @@ while True:
                     print("Number", a, "is Even")
                 else:
                     print("Number", a, "is Odd")
-            for a in range (a1, a2+1):
                 add+=a
             print("Sum of all numbers from", a1, "to", a2, "is: ", add)
         case 3:
@@ -30,5 +29,5 @@ while True:
             break
         case _:
             print("Invalid choice")
-            break
+            
         
