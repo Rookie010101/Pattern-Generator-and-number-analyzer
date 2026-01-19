@@ -27,8 +27,7 @@ When you run the program, you'll see a menu with three options:
 Gracefully exits the program.
 
 ## 📸 Screenshot
-
-https://github.com/Rookie010101/Pattern-Generator-and-number-analyzer/blob/a9b06b2e315318d2007ad8286c76d917997a2741/Project2_SS.png
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/690cbb55-80dc-47da-94c9-33e18c5f929c" />
 *Complete demonstration showing menu, pattern generation, and number analysis*
 
 ## 🛠️ Technical Details
